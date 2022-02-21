@@ -1,0 +1,1158 @@
+
+Lauro Daniel Jiménez Custodio-4512077 Ulises Perez Gomez-2888460  Jose Luis Aguilar-2806108
+
+**** 
+Tiempo para archivos\Files\005.html => 1 seg con 573620000 ms 
+**** Record de tiempo total de ejecucion => 1 Seg     | - 57362 ms - |
+
+**** 
+Tiempo para archivos\Files\002.html => 0 seg con 570889100 ms 
+**** Record de tiempo total de ejecucion => 1 Seg     | - 114450.91 ms - |
+
+**** 
+Tiempo para archivos\Files\004.html => 0 seg con 23085800 ms 
+**** Record de tiempo total de ejecucion => 1 Seg     | - 116759.49 ms - |
+
+**** 
+Tiempo para archivos\Files\006.html => 0 seg con 9499300 ms 
+**** Record de tiempo total de ejecucion => 1 Seg     | - 117709.42 ms - |
+
+**** 
+Tiempo para archivos\Files\003.html => 0 seg con 22574600 ms 
+**** Record de tiempo total de ejecucion => 1 Seg     | - 119966.88 ms - |
+
+**** 
+Tiempo para archivos\Files\008.html => 0 seg con 89443400 ms 
+**** Record de tiempo total de ejecucion => 1 Seg     | - 128911.22 ms - |
+
+**** 
+Tiempo para archivos\Files\011.html => 0 seg con 117630300 ms 
+**** Record de tiempo total de ejecucion => 1 Seg     | - 140674.25 ms - |
+
+**** 
+Tiempo para archivos\Files\007.html => 1 seg con 131976300 ms 
+**** Record de tiempo total de ejecucion => 2 Seg     | - 153871.88 ms - |
+
+**** 
+Tiempo para archivos\Files\010.html => 0 seg con 53831300 ms 
+**** Record de tiempo total de ejecucion => 2 Seg     | - 159255.01 ms - |
+
+**** 
+Tiempo para archivos\Files\009.html => 0 seg con 367779300 ms 
+**** Record de tiempo total de ejecucion => 2 Seg     | - 196032.94 ms - |
+
+**** 
+Tiempo para archivos\Files\012.html => 0 seg con 36230500 ms 
+**** Record de tiempo total de ejecucion => 2 Seg     | - 199655.99 ms - |
+
+**** 
+Tiempo para archivos\Files\015.html => 0 seg con 30695500 ms 
+**** Record de tiempo total de ejecucion => 2 Seg     | - 202725.53999999998 ms - |
+
+**** 
+Tiempo para archivos\Files\013.html => 0 seg con 7361700 ms 
+**** Record de tiempo total de ejecucion => 2 Seg     | - 203461.71 ms - |
+
+**** 
+Tiempo para archivos\Files\014.html => 0 seg con 9405700 ms 
+**** Record de tiempo total de ejecucion => 2 Seg     | - 204402.28 ms - |
+
+**** 
+Tiempo para archivos\Files\018.html => 0 seg con 81347300 ms 
+**** Record de tiempo total de ejecucion => 2 Seg     | - 212537.01 ms - |
+
+**** 
+Tiempo para archivos\Files\016.html => 0 seg con 87577500 ms 
+**** Record de tiempo total de ejecucion => 2 Seg     | - 221294.76 ms - |
+
+**** 
+Tiempo para archivos\Files\017.html => 0 seg con 93350900 ms 
+**** Record de tiempo total de ejecucion => 2 Seg     | - 230629.85 ms - |
+
+**** 
+Tiempo para archivos\Files\019.html => 1 seg con 62973700 ms 
+**** Record de tiempo total de ejecucion => 3 Seg     | - 236927.22 ms - |
+
+**** 
+Tiempo para archivos\Files\021.html => 0 seg con 18562500 ms 
+**** Record de tiempo total de ejecucion => 3 Seg     | - 238783.47 ms - |
+
+**** 
+Tiempo para archivos\Files\020.html => 0 seg con 4032100 ms 
+**** Record de tiempo total de ejecucion => 3 Seg     | - 239186.68 ms - |
+
+**** 
+Tiempo para archivos\Files\023.html => 0 seg con 10605500 ms 
+**** Record de tiempo total de ejecucion => 3 Seg     | - 240247.22999999998 ms - |
+
+**** 
+Tiempo para archivos\Files\022.html => 4 seg con 575288700 ms 
+**** Record de tiempo total de ejecucion => 7 Seg     | - 297776.1 ms - |
+
+**** 
+Tiempo para archivos\Files\025.html => 0 seg con 93009900 ms 
+**** Record de tiempo total de ejecucion => 7 Seg     | - 307077.08999999997 ms - |
+
+**** 
+Tiempo para archivos\Files\024.html => 0 seg con 21155800 ms 
+**** Record de tiempo total de ejecucion => 7 Seg     | - 309192.67 ms - |
+
+**** 
+Tiempo para archivos\Files\026.html => 0 seg con 194029500 ms 
+**** Record de tiempo total de ejecucion => 7 Seg     | - 328595.62 ms - |
+
+**** 
+Tiempo para archivos\Files\029.html => 0 seg con 35787900 ms 
+**** Record de tiempo total de ejecucion => 7 Seg     | - 332174.41 ms - |
+
+**** 
+Tiempo para archivos\Files\027.html => 1 seg con 876546700 ms 
+**** Record de tiempo total de ejecucion => 8 Seg     | - 419829.07999999996 ms - |
+
+**** 
+Tiempo para archivos\Files\028.html => 0 seg con 79802200 ms 
+**** Record de tiempo total de ejecucion => 8 Seg     | - 427809.29999999993 ms - |
+
+**** 
+Tiempo para archivos\Files\031.html => 0 seg con 24766700 ms 
+**** Record de tiempo total de ejecucion => 8 Seg     | - 430285.9699999999 ms - |
+
+**** 
+Tiempo para archivos\Files\030.html => 0 seg con 70360000 ms 
+**** Record de tiempo total de ejecucion => 8 Seg     | - 437321.9699999999 ms - |
+
+**** 
+Tiempo para archivos\Files\033.html => 0 seg con 57078600 ms 
+**** Record de tiempo total de ejecucion => 8 Seg     | - 443029.8299999999 ms - |
+
+**** 
+Tiempo para archivos\Files\032.html => 0 seg con 3826900 ms 
+**** Record de tiempo total de ejecucion => 8 Seg     | - 443412.5199999999 ms - |
+
+**** 
+Tiempo para archivos\Files\035.html => 0 seg con 3353100 ms 
+**** Record de tiempo total de ejecucion => 8 Seg     | - 443747.8299999999 ms - |
+
+**** 
+Tiempo para archivos\Files\034.html => 0 seg con 202013700 ms 
+**** Record de tiempo total de ejecucion => 8 Seg     | - 463949.1999999999 ms - |
+
+**** 
+Tiempo para archivos\Files\036.html => 0 seg con 15508800 ms 
+**** Record de tiempo total de ejecucion => 8 Seg     | - 465500.0799999999 ms - |
+
+**** 
+Tiempo para archivos\Files\039.html => 0 seg con 104216600 ms 
+**** Record de tiempo total de ejecucion => 8 Seg     | - 475921.7399999999 ms - |
+
+**** 
+Tiempo para archivos\Files\038.html => 0 seg con 114079500 ms 
+**** Record de tiempo total de ejecucion => 8 Seg     | - 487329.6899999999 ms - |
+
+**** 
+Tiempo para archivos\Files\037.html => 0 seg con 11083900 ms 
+**** Record de tiempo total de ejecucion => 8 Seg     | - 488438.0799999999 ms - |
+
+**** 
+Tiempo para archivos\Files\041.html => 0 seg con 64620400 ms 
+**** Record de tiempo total de ejecucion => 8 Seg     | - 494900.1199999999 ms - |
+
+**** 
+Tiempo para archivos\Files\040.html => 0 seg con 272685200 ms 
+**** Record de tiempo total de ejecucion => 8 Seg     | - 522168.6399999999 ms - |
+
+**** 
+Tiempo para archivos\Files\042.html => 0 seg con 159590400 ms 
+**** Record de tiempo total de ejecucion => 8 Seg     | - 538127.6799999999 ms - |
+
+**** 
+Tiempo para archivos\Files\044.html => 0 seg con 58138900 ms 
+**** Record de tiempo total de ejecucion => 8 Seg     | - 543941.57 ms - |
+
+**** 
+Tiempo para archivos\Files\046.html => 0 seg con 103502400 ms 
+**** Record de tiempo total de ejecucion => 8 Seg     | - 554291.8099999999 ms - |
+
+**** 
+Tiempo para archivos\Files\045.html => 0 seg con 4570700 ms 
+**** Record de tiempo total de ejecucion => 8 Seg     | - 554748.8799999999 ms - |
+
+**** 
+Tiempo para archivos\Files\049.html => 0 seg con 39881100 ms 
+**** Record de tiempo total de ejecucion => 8 Seg     | - 558736.9899999999 ms - |
+
+**** 
+Tiempo para archivos\Files\048.html => 0 seg con 1237500 ms 
+**** Record de tiempo total de ejecucion => 8 Seg     | - 558860.7399999999 ms - |
+
+**** 
+Tiempo para archivos\Files\047.html => 0 seg con 257713900 ms 
+**** Record de tiempo total de ejecucion => 8 Seg     | - 584632.1299999999 ms - |
+
+**** 
+Tiempo para archivos\Files\043.html => 3 seg con 69884200 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 591620.5499999999 ms - |
+
+**** 
+Tiempo para archivos\Files\051.html => 0 seg con 71745600 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 598795.11 ms - |
+
+**** 
+Tiempo para archivos\Files\054.html => 0 seg con 201329600 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 618928.07 ms - |
+
+**** 
+Tiempo para archivos\Files\052.html => 0 seg con 90113300 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 627939.3999999999 ms - |
+
+**** 
+Tiempo para archivos\Files\050.html => 0 seg con 225303900 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 650469.7899999999 ms - |
+
+**** 
+Tiempo para archivos\Files\053.html => 0 seg con 18197400 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 652289.5299999999 ms - |
+
+**** 
+Tiempo para archivos\Files\055.html => 0 seg con 46439700 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 656933.4999999999 ms - |
+
+**** 
+Tiempo para archivos\Files\057.html => 0 seg con 42970300 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 661230.5299999999 ms - |
+
+**** 
+Tiempo para archivos\Files\056.html => 0 seg con 10220700 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 662252.5999999999 ms - |
+
+**** 
+Tiempo para archivos\Files\059.html => 0 seg con 32281200 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 665480.7199999999 ms - |
+
+**** 
+Tiempo para archivos\Files\058.html => 0 seg con 98237700 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 675304.4899999999 ms - |
+
+**** 
+Tiempo para archivos\Files\060.html => 0 seg con 87486000 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 684053.0899999999 ms - |
+
+**** 
+Tiempo para archivos\Files\062.html => 0 seg con 33963900 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 687449.4799999999 ms - |
+
+**** 
+Tiempo para archivos\Files\061.html => 0 seg con 27769500 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 690226.4299999998 ms - |
+
+**** 
+Tiempo para archivos\Files\064.html => 0 seg con 240992300 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 714325.6599999998 ms - |
+
+**** 
+Tiempo para archivos\Files\067.html => 0 seg con 97188300 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 724044.4899999998 ms - |
+
+**** 
+Tiempo para archivos\Files\066.html => 0 seg con 364901600 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 760534.6499999998 ms - |
+
+**** 
+Tiempo para archivos\Files\065.html => 0 seg con 22786400 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 762813.2899999998 ms - |
+
+**** 
+Tiempo para archivos\Files\063.html => 0 seg con 35258000 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 766339.0899999999 ms - |
+
+**** 
+Tiempo para archivos\Files\069.html => 0 seg con 24119900 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 768751.0799999998 ms - |
+
+**** 
+Tiempo para archivos\Files\068.html => 0 seg con 54616600 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 774212.7399999999 ms - |
+
+**** 
+Tiempo para archivos\Files\071.html => 0 seg con 30084800 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 777221.2199999999 ms - |
+
+**** 
+Tiempo para archivos\Files\070.html => 0 seg con 77222800 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 784943.4999999999 ms - |
+
+**** 
+Tiempo para archivos\Files\073.html => 0 seg con 28378700 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 787781.3699999999 ms - |
+
+**** 
+Tiempo para archivos\Files\072.html => 0 seg con 17566000 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 789537.9699999999 ms - |
+
+**** 
+Tiempo para archivos\Files\076.html => 0 seg con 691603400 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 858698.3099999998 ms - |
+
+**** 
+Tiempo para archivos\Files\077.html => 0 seg con 26143100 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 861312.6199999999 ms - |
+
+**** 
+Tiempo para archivos\Files\074.html => 0 seg con 163489500 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 877661.5699999998 ms - |
+
+**** 
+Tiempo para archivos\Files\078.html => 0 seg con 74665500 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 885128.1199999999 ms - |
+
+**** 
+Tiempo para archivos\Files\079.html => 0 seg con 618100 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 885189.9299999999 ms - |
+
+**** 
+Tiempo para archivos\Files\081.html => 0 seg con 23205400 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 887510.47 ms - |
+
+**** 
+Tiempo para archivos\Files\080.html => 0 seg con 166015300 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 904112 ms - |
+
+**** 
+Tiempo para archivos\Files\075.html => 0 seg con 284206600 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 932532.66 ms - |
+
+**** 
+Tiempo para archivos\Files\082.html => 0 seg con 409385500 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 973471.2100000001 ms - |
+
+**** 
+Tiempo para archivos\Files\085.html => 0 seg con 45762000 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 978047.41 ms - |
+
+**** 
+Tiempo para archivos\Files\083.html => 0 seg con 72540100 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 985301.42 ms - |
+
+**** 
+Tiempo para archivos\Files\084.html => 0 seg con 24138000 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 987715.2200000001 ms - |
+
+**** 
+Tiempo para archivos\Files\087.html => 0 seg con 139147800 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1001630.0000000001 ms - |
+
+**** 
+Tiempo para archivos\Files\086.html => 0 seg con 9421100 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1002572.1100000001 ms - |
+
+**** 
+Tiempo para archivos\Files\088.html => 0 seg con 24480000 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1005020.1100000001 ms - |
+
+**** 
+Tiempo para archivos\Files\090.html => 0 seg con 2150000 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1005235.1100000001 ms - |
+
+**** 
+Tiempo para archivos\Files\089.html => 0 seg con 87316400 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1013966.7500000001 ms - |
+
+**** 
+Tiempo para archivos\Files\092.html => 0 seg con 19704700 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1015937.2200000001 ms - |
+
+**** 
+Tiempo para archivos\Files\094.html => 0 seg con 30754000 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1019012.6200000001 ms - |
+
+**** 
+Tiempo para archivos\Files\093.html => 0 seg con 4259700 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1019438.5900000001 ms - |
+
+**** 
+Tiempo para archivos\Files\091.html => 0 seg con 155553300 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1034993.92 ms - |
+
+**** 
+Tiempo para archivos\Files\095.html => 0 seg con 43025000 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1039296.42 ms - |
+
+**** 
+Tiempo para archivos\Files\096.html => 0 seg con 70223900 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1046318.81 ms - |
+
+**** 
+Tiempo para archivos\Files\098.html => 0 seg con 95132500 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1055832.06 ms - |
+
+**** 
+Tiempo para archivos\Files\097.html => 0 seg con 37490300 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1059581.09 ms - |
+
+**** 
+Tiempo para archivos\Files\099.html => 0 seg con 76613600 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1067242.4500000002 ms - |
+
+**** 
+Tiempo para archivos\Files\101.html => 0 seg con 9212800 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1068163.7300000002 ms - |
+
+**** 
+Tiempo para archivos\Files\100.html => 0 seg con 10766700 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1069240.4000000001 ms - |
+
+**** 
+Tiempo para archivos\Files\104.html => 0 seg con 49831900 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1074223.59 ms - |
+
+**** 
+Tiempo para archivos\Files\102.html => 0 seg con 4253500 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1074648.9400000002 ms - |
+
+**** 
+Tiempo para archivos\Files\103.html => 0 seg con 410500 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1074689.9900000002 ms - |
+
+**** 
+Tiempo para archivos\Files\106.html => 0 seg con 4502700 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1075140.2600000002 ms - |
+
+**** 
+Tiempo para archivos\Files\108.html => 0 seg con 57632800 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1080903.5400000003 ms - |
+
+**** 
+Tiempo para archivos\Files\105.html => 0 seg con 157645400 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1096668.0800000003 ms - |
+
+**** 
+Tiempo para archivos\Files\110.html => 0 seg con 435800 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1096711.6600000004 ms - |
+
+**** 
+Tiempo para archivos\Files\107.html => 0 seg con 30320400 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1099743.7000000004 ms - |
+
+**** 
+Tiempo para archivos\Files\111.html => 0 seg con 10681200 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1100811.8200000005 ms - |
+
+**** 
+Tiempo para archivos\Files\113.html => 0 seg con 22009000 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1103012.7200000004 ms - |
+
+**** 
+Tiempo para archivos\Files\109.html => 0 seg con 61368400 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1109149.5600000005 ms - |
+
+**** 
+Tiempo para archivos\Files\112.html => 0 seg con 103109900 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1119460.5500000005 ms - |
+
+**** 
+Tiempo para archivos\Files\114.html => 0 seg con 55252800 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1124985.8300000005 ms - |
+
+**** 
+Tiempo para archivos\Files\115.html => 0 seg con 112571300 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1136242.9600000004 ms - |
+
+**** 
+Tiempo para archivos\Files\119.html => 0 seg con 243681600 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1160611.1200000003 ms - |
+
+**** 
+Tiempo para archivos\Files\116.html => 0 seg con 41038500 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1164714.9700000004 ms - |
+
+**** 
+Tiempo para archivos\Files\120.html => 0 seg con 39935400 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1168708.5100000005 ms - |
+
+**** 
+Tiempo para archivos\Files\121.html => 0 seg con 30802600 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1171788.7700000005 ms - |
+
+**** 
+Tiempo para archivos\Files\118.html => 0 seg con 631276300 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1234916.4000000004 ms - |
+
+**** 
+Tiempo para archivos\Files\117.html => 0 seg con 33056600 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1238222.0600000003 ms - |
+
+**** 
+Tiempo para archivos\Files\122.html => 0 seg con 105038600 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1248725.9200000004 ms - |
+
+**** 
+Tiempo para archivos\Files\123.html => 0 seg con 40008100 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1252726.7300000004 ms - |
+
+**** 
+Tiempo para archivos\Files\124.html => 0 seg con 192782700 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1272005.0000000005 ms - |
+
+**** 
+Tiempo para archivos\Files\127.html => 0 seg con 14895500 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1273494.5500000005 ms - |
+
+**** 
+Tiempo para archivos\Files\125.html => 0 seg con 65562200 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1280050.7700000005 ms - |
+
+**** 
+Tiempo para archivos\Files\129.html => 0 seg con 68348500 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1286885.6200000006 ms - |
+
+**** 
+Tiempo para archivos\Files\128.html => 0 seg con 15130400 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1288398.6600000006 ms - |
+
+**** 
+Tiempo para archivos\Files\131.html => 0 seg con 86828900 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1297081.5500000005 ms - |
+
+**** 
+Tiempo para archivos\Files\126.html => 0 seg con 75630700 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1304644.6200000006 ms - |
+
+**** 
+Tiempo para archivos\Files\130.html => 0 seg con 4994800 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1305144.1000000006 ms - |
+
+**** 
+Tiempo para archivos\Files\132.html => 0 seg con 20376000 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1307181.7000000007 ms - |
+
+**** 
+Tiempo para archivos\Files\133.html => 0 seg con 96387100 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1316820.4100000006 ms - |
+
+**** 
+Tiempo para archivos\Files\136.html => 0 seg con 88444900 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1325664.9000000006 ms - |
+
+**** 
+Tiempo para archivos\Files\134.html => 0 seg con 16489100 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1327313.8100000005 ms - |
+
+**** 
+Tiempo para archivos\Files\139.html => 0 seg con 101185300 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1337432.3400000005 ms - |
+
+**** 
+Tiempo para archivos\Files\138.html => 0 seg con 58555000 ms 
+**** Record de tiempo total de ejecucion => 11 Seg     | - 1343287.8400000005 ms - |
+
+**** 
+Tiempo para archivos\Files\137.html => 1 seg con 319228400 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1375210.6800000006 ms - |
+
+**** 
+Tiempo para archivos\Files\135.html => 0 seg con 8663100 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1376076.9900000007 ms - |
+
+**** 
+Tiempo para archivos\Files\140.html => 0 seg con 4697500 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1376546.7400000007 ms - |
+
+**** 
+Tiempo para archivos\Files\141.html => 0 seg con 27910300 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1379337.7700000007 ms - |
+
+**** 
+Tiempo para archivos\Files\143.html => 0 seg con 41849700 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1383522.7400000007 ms - |
+
+**** 
+Tiempo para archivos\Files\144.html => 0 seg con 45186300 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1388041.3700000006 ms - |
+
+**** 
+Tiempo para archivos\Files\146.html => 0 seg con 502279600 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1438269.3300000005 ms - |
+
+**** 
+Tiempo para archivos\Files\147.html => 0 seg con 136356400 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1451904.9700000004 ms - |
+
+**** 
+Tiempo para archivos\Files\142.html => 0 seg con 6204400 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1452525.4100000004 ms - |
+
+**** 
+Tiempo para archivos\Files\148.html => 0 seg con 6939900 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1453219.4000000004 ms - |
+
+**** 
+Tiempo para archivos\Files\149.html => 0 seg con 54499700 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1458669.3700000003 ms - |
+
+**** 
+Tiempo para archivos\Files\145.html => 0 seg con 74267600 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1466096.1300000004 ms - |
+
+**** 
+Tiempo para archivos\Files\151.html => 0 seg con 9531500 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1467049.2800000003 ms - |
+
+**** 
+Tiempo para archivos\Files\153.html => 0 seg con 6152200 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1467664.5000000002 ms - |
+
+**** 
+Tiempo para archivos\Files\150.html => 0 seg con 71284200 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1474792.9200000002 ms - |
+
+**** 
+Tiempo para archivos\Files\155.html => 0 seg con 8857500 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1475678.6700000002 ms - |
+
+**** 
+Tiempo para archivos\Files\152.html => 0 seg con 42822100 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1479960.8800000001 ms - |
+
+**** 
+Tiempo para archivos\Files\154.html => 0 seg con 245223100 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1504483.1900000002 ms - |
+
+**** 
+Tiempo para archivos\Files\158.html => 0 seg con 7619400 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1505245.1300000001 ms - |
+
+**** 
+Tiempo para archivos\Files\156.html => 0 seg con 453476900 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1550592.82 ms - |
+
+**** 
+Tiempo para archivos\Files\162.html => 0 seg con 96200000 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1560212.82 ms - |
+
+**** 
+Tiempo para archivos\Files\157.html => 0 seg con 24624600 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1562675.28 ms - |
+
+**** 
+Tiempo para archivos\Files\161.html => 0 seg con 214837100 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1584158.99 ms - |
+
+**** 
+Tiempo para archivos\Files\160.html => 0 seg con 178081300 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1601967.1199999999 ms - |
+
+**** 
+Tiempo para archivos\Files\159.html => 0 seg con 254050400 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1627372.16 ms - |
+
+**** 
+Tiempo para archivos\Files\164.html => 0 seg con 100354400 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1637407.5999999999 ms - |
+
+**** 
+Tiempo para archivos\Files\163.html => 0 seg con 397100 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1637447.3099999998 ms - |
+
+**** 
+Tiempo para archivos\Files\165.html => 0 seg con 16068700 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1639054.18 ms - |
+
+**** 
+Tiempo para archivos\Files\167.html => 0 seg con 46848000 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1643738.98 ms - |
+
+**** 
+Tiempo para archivos\Files\168.html => 0 seg con 100995000 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1653838.48 ms - |
+
+**** 
+Tiempo para archivos\Files\169.html => 0 seg con 19881300 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1655826.6099999999 ms - |
+
+**** 
+Tiempo para archivos\Files\170.html => 0 seg con 43003400 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1660126.95 ms - |
+
+**** 
+Tiempo para archivos\Files\166.html => 0 seg con 586345500 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1718761.5 ms - |
+
+**** 
+Tiempo para archivos\Files\171.html => 0 seg con 17111200 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1720472.62 ms - |
+
+**** 
+Tiempo para archivos\Files\172.html => 0 seg con 86229700 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1729095.59 ms - |
+
+**** 
+Tiempo para archivos\Files\173.html => 0 seg con 44799600 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1733575.55 ms - |
+
+**** 
+Tiempo para archivos\Files\175.html => 0 seg con 557800 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1733631.33 ms - |
+
+**** 
+Tiempo para archivos\Files\174.html => 0 seg con 53882500 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1739019.58 ms - |
+
+**** 
+Tiempo para archivos\Files\177.html => 0 seg con 39790600 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1742998.6400000001 ms - |
+
+**** 
+Tiempo para archivos\Files\179.html => 0 seg con 745323000 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1817530.9400000002 ms - |
+
+**** 
+Tiempo para archivos\Files\176.html => 0 seg con 45594200 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1822090.36 ms - |
+
+**** 
+Tiempo para archivos\Files\178.html => 0 seg con 76334400 ms 
+**** Record de tiempo total de ejecucion => 12 Seg     | - 1829723.8 ms - |
+
+**** 
+Tiempo para archivos\Files\181.html => 1 seg con 385001500 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 1868223.95 ms - |
+
+**** 
+Tiempo para archivos\Files\182.html => 0 seg con 37814100 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 1872005.3599999999 ms - |
+
+**** 
+Tiempo para archivos\Files\186.html => 0 seg con 7150500 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 1872720.41 ms - |
+
+**** 
+Tiempo para archivos\Files\180.html => 0 seg con 59327300 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 1878653.14 ms - |
+
+**** 
+Tiempo para archivos\Files\184.html => 0 seg con 105694000 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 1889222.5399999998 ms - |
+
+**** 
+Tiempo para archivos\Files\183.html => 0 seg con 118100300 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 1901032.5699999998 ms - |
+
+**** 
+Tiempo para archivos\Files\185.html => 0 seg con 22196600 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 1903252.2299999997 ms - |
+
+**** 
+Tiempo para archivos\Files\187.html => 0 seg con 36706800 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 1906922.9099999997 ms - |
+
+**** 
+Tiempo para archivos\Files\188.html => 0 seg con 78960600 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 1914818.9699999997 ms - |
+
+**** 
+Tiempo para archivos\Files\189.html => 0 seg con 691628900 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 1983981.8599999996 ms - |
+
+**** 
+Tiempo para archivos\Files\191.html => 0 seg con 14222600 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 1985404.1199999996 ms - |
+
+**** 
+Tiempo para archivos\Files\194.html => 0 seg con 114206800 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 1996824.7999999996 ms - |
+
+**** 
+Tiempo para archivos\Files\195.html => 0 seg con 114023400 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 2008227.1399999997 ms - |
+
+**** 
+Tiempo para archivos\Files\190.html => 0 seg con 59928200 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 2014219.9599999997 ms - |
+
+**** 
+Tiempo para archivos\Files\193.html => 0 seg con 97550300 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 2023974.9899999998 ms - |
+
+**** 
+Tiempo para archivos\Files\192.html => 0 seg con 55078200 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 2029482.8099999998 ms - |
+
+**** 
+Tiempo para archivos\Files\196.html => 0 seg con 37879600 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 2033270.7699999998 ms - |
+
+**** 
+Tiempo para archivos\Files\200.html => 0 seg con 38816800 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 2037152.4499999997 ms - |
+
+**** 
+Tiempo para archivos\Files\198.html => 0 seg con 59741200 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 2043126.5699999998 ms - |
+
+**** 
+Tiempo para archivos\Files\199.html => 0 seg con 82518200 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 2051378.39 ms - |
+
+**** 
+Tiempo para archivos\Files\201.html => 0 seg con 20805300 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 2053458.92 ms - |
+
+**** 
+Tiempo para archivos\Files\202.html => 0 seg con 34023200 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 2056861.24 ms - |
+
+**** 
+Tiempo para archivos\Files\203.html => 0 seg con 109655100 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 2067826.75 ms - |
+
+**** 
+Tiempo para archivos\Files\197.html => 0 seg con 311979700 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 2099024.72 ms - |
+
+**** 
+Tiempo para archivos\Files\205.html => 0 seg con 180601900 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 2117084.91 ms - |
+
+**** 
+Tiempo para archivos\Files\206.html => 0 seg con 66117200 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 2123696.6300000004 ms - |
+
+**** 
+Tiempo para archivos\Files\208.html => 0 seg con 64247400 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 2130121.3700000006 ms - |
+
+**** 
+Tiempo para archivos\Files\204.html => 0 seg con 122669900 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 2142388.360000001 ms - |
+
+**** 
+Tiempo para archivos\Files\207.html => 0 seg con 151251600 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 2157513.520000001 ms - |
+
+**** 
+Tiempo para archivos\Files\209.html => 0 seg con 27180800 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 2160231.600000001 ms - |
+
+**** 
+Tiempo para archivos\Files\210.html => 0 seg con 67109200 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 2166942.520000001 ms - |
+
+**** 
+Tiempo para archivos\Files\211.html => 0 seg con 72556600 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 2174198.180000001 ms - |
+
+**** 
+Tiempo para archivos\Files\212.html => 0 seg con 53388700 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 2179537.050000001 ms - |
+
+**** 
+Tiempo para archivos\Files\215.html => 0 seg con 164187400 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 2195955.7900000014 ms - |
+
+**** 
+Tiempo para archivos\Files\214.html => 0 seg con 24391300 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 2198394.9200000013 ms - |
+
+**** 
+Tiempo para archivos\Files\213.html => 0 seg con 251498300 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 2223544.7500000014 ms - |
+
+**** 
+Tiempo para archivos\Files\221.html => 0 seg con 39167000 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 2227461.4500000016 ms - |
+
+**** 
+Tiempo para archivos\Files\216.html => 0 seg con 107240200 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 2238185.4700000016 ms - |
+
+**** 
+Tiempo para archivos\Files\217.html => 0 seg con 4998500 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 2238685.3200000017 ms - |
+
+**** 
+Tiempo para archivos\Files\219.html => 0 seg con 53078500 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 2243993.170000002 ms - |
+
+**** 
+Tiempo para archivos\Files\224.html => 0 seg con 31647500 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 2247157.920000002 ms - |
+
+**** 
+Tiempo para archivos\Files\218.html => 0 seg con 40508500 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 2251208.770000002 ms - |
+
+**** 
+Tiempo para archivos\Files\220.html => 0 seg con 50747200 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 2256283.490000002 ms - |
+
+**** 
+Tiempo para archivos\Files\223.html => 0 seg con 324114700 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 2288694.9600000023 ms - |
+
+**** 
+Tiempo para archivos\Files\222.html => 0 seg con 319925400 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 2320687.5000000023 ms - |
+
+**** 
+Tiempo para archivos\Files\225.html => 0 seg con 58065700 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 2326494.070000002 ms - |
+
+**** 
+Tiempo para archivos\Files\228.html => 0 seg con 43402700 ms 
+**** Record de tiempo total de ejecucion => 13 Seg     | - 2330834.340000002 ms - |
+
+**** 
+Tiempo para archivos\Files\226.html => 1 seg con 635511100 ms 
+**** Record de tiempo total de ejecucion => 14 Seg     | - 2394385.450000002 ms - |
+
+**** 
+Tiempo para archivos\Files\227.html => 0 seg con 5745200 ms 
+**** Record de tiempo total de ejecucion => 14 Seg     | - 2394959.970000002 ms - |
+
+**** 
+Tiempo para archivos\Files\230.html => 0 seg con 161087000 ms 
+**** Record de tiempo total de ejecucion => 14 Seg     | - 2411068.6700000023 ms - |
+
+**** 
+Tiempo para archivos\Files\233.html => 0 seg con 343822700 ms 
+**** Record de tiempo total de ejecucion => 14 Seg     | - 2445450.9400000023 ms - |
+
+**** 
+Tiempo para archivos\Files\231.html => 0 seg con 23455600 ms 
+**** Record de tiempo total de ejecucion => 14 Seg     | - 2447796.5000000023 ms - |
+
+**** 
+Tiempo para archivos\Files\229.html => 0 seg con 141169300 ms 
+**** Record de tiempo total de ejecucion => 14 Seg     | - 2461913.4300000025 ms - |
+
+**** 
+Tiempo para archivos\Files\235.html => 0 seg con 499615800 ms 
+**** Record de tiempo total de ejecucion => 14 Seg     | - 2511875.0100000026 ms - |
+
+**** 
+Tiempo para archivos\Files\234.html => 0 seg con 679780200 ms 
+**** Record de tiempo total de ejecucion => 14 Seg     | - 2579853.0300000026 ms - |
+
+**** 
+Tiempo para archivos\Files\232.html => 0 seg con 169814700 ms 
+**** Record de tiempo total de ejecucion => 14 Seg     | - 2596834.500000003 ms - |
+
+**** 
+Tiempo para archivos\Files\239.html => 0 seg con 211561500 ms 
+**** Record de tiempo total de ejecucion => 14 Seg     | - 2617990.6500000027 ms - |
+
+**** 
+Tiempo para archivos\Files\236.html => 0 seg con 239127700 ms 
+**** Record de tiempo total de ejecucion => 14 Seg     | - 2641903.4200000027 ms - |
+
+**** 
+Tiempo para archivos\Files\238.html => 0 seg con 138746400 ms 
+**** Record de tiempo total de ejecucion => 14 Seg     | - 2655778.060000003 ms - |
+
+**** 
+Tiempo para archivos\Files\237.html => 0 seg con 155783900 ms 
+**** Record de tiempo total de ejecucion => 14 Seg     | - 2671356.450000003 ms - |
+
+**** 
+Tiempo para archivos\Files\240.html => 0 seg con 769718500 ms 
+**** Record de tiempo total de ejecucion => 14 Seg     | - 2748328.300000003 ms - |
+
+**** 
+Tiempo para archivos\Files\245.html => 0 seg con 162219900 ms 
+**** Record de tiempo total de ejecucion => 14 Seg     | - 2764550.2900000033 ms - |
+
+**** 
+Tiempo para archivos\Files\241.html => 0 seg con 189722500 ms 
+**** Record de tiempo total de ejecucion => 14 Seg     | - 2783522.5400000033 ms - |
+
+**** 
+Tiempo para archivos\Files\242.html => 0 seg con 322106300 ms 
+**** Record de tiempo total de ejecucion => 14 Seg     | - 2815733.170000003 ms - |
+
+**** 
+Tiempo para archivos\Files\243.html => 0 seg con 915772400 ms 
+**** Record de tiempo total de ejecucion => 14 Seg     | - 2907310.4100000034 ms - |
+
+**** 
+Tiempo para archivos\Files\247.html => 0 seg con 470884900 ms 
+**** Record de tiempo total de ejecucion => 14 Seg     | - 2954398.9000000036 ms - |
+
+**** 
+Tiempo para archivos\Files\244.html => 0 seg con 438776300 ms 
+**** Record de tiempo total de ejecucion => 14 Seg     | - 2998276.5300000035 ms - |
+
+**** 
+Tiempo para archivos\Files\249.html => 1 seg con 243707000 ms 
+**** Record de tiempo total de ejecucion => 15 Seg     | - 3022647.2300000037 ms - |
+
+**** 
+Tiempo para archivos\Files\246.html => 0 seg con 342437500 ms 
+**** Record de tiempo total de ejecucion => 15 Seg     | - 3056890.9800000037 ms - |
+
+**** 
+Tiempo para archivos\Files\248.html => 0 seg con 151671100 ms 
+**** Record de tiempo total de ejecucion => 15 Seg     | - 3072058.0900000036 ms - |
+
+**** 
+Tiempo para archivos\Files\250.html => 0 seg con 231615400 ms 
+**** Record de tiempo total de ejecucion => 15 Seg     | - 3095219.6300000036 ms - |
+
+**** 
+Tiempo para archivos\Files\252.html => 0 seg con 515971900 ms 
+**** Record de tiempo total de ejecucion => 15 Seg     | - 3146816.8200000036 ms - |
+
+**** 
+Tiempo para archivos\Files\255.html => 0 seg con 55978100 ms 
+**** Record de tiempo total de ejecucion => 15 Seg     | - 3152414.6300000036 ms - |
+
+**** 
+Tiempo para archivos\Files\253.html => 0 seg con 102513700 ms 
+**** Record de tiempo total de ejecucion => 15 Seg     | - 3162666.0000000037 ms - |
+
+**** 
+Tiempo para archivos\Files\251.html => 0 seg con 299969300 ms 
+**** Record de tiempo total de ejecucion => 15 Seg     | - 3192662.930000004 ms - |
+
+**** 
+Tiempo para archivos\Files\257.html => 0 seg con 112498400 ms 
+**** Record de tiempo total de ejecucion => 15 Seg     | - 3203912.7700000037 ms - |
+
+**** 
+Tiempo para archivos\Files\254.html => 0 seg con 278530300 ms 
+**** Record de tiempo total de ejecucion => 15 Seg     | - 3231765.8000000035 ms - |
+
+**** 
+Tiempo para archivos\Files\258.html => 0 seg con 475132900 ms 
+**** Record de tiempo total de ejecucion => 15 Seg     | - 3279279.0900000036 ms - |
+
+**** 
+Tiempo para archivos\Files\259.html => 0 seg con 206345300 ms 
+**** Record de tiempo total de ejecucion => 15 Seg     | - 3299913.6200000034 ms - |
+
+**** 
+Tiempo para archivos\Files\256.html => 0 seg con 319468500 ms 
+**** Record de tiempo total de ejecucion => 15 Seg     | - 3331860.4700000035 ms - |
+
+**** 
+Tiempo para archivos\Files\262.html => 0 seg con 141207800 ms 
+**** Record de tiempo total de ejecucion => 15 Seg     | - 3345981.2500000033 ms - |
+
+**** 
+Tiempo para archivos\Files\263.html => 0 seg con 117621800 ms 
+**** Record de tiempo total de ejecucion => 15 Seg     | - 3357743.4300000034 ms - |
+
+**** 
+Tiempo para archivos\Files\260.html => 0 seg con 616694600 ms 
+**** Record de tiempo total de ejecucion => 15 Seg     | - 3419412.8900000034 ms - |
+
+**** 
+Tiempo para archivos\Files\261.html => 0 seg con 153020700 ms 
+**** Record de tiempo total de ejecucion => 15 Seg     | - 3434714.960000003 ms - |
+
+**** 
+Tiempo para archivos\Files\265.html => 0 seg con 52826600 ms 
+**** Record de tiempo total de ejecucion => 15 Seg     | - 3439997.6200000034 ms - |
+
+**** 
+Tiempo para archivos\Files\269.html => 0 seg con 786640200 ms 
+**** Record de tiempo total de ejecucion => 15 Seg     | - 3518661.6400000034 ms - |
+
+**** 
+Tiempo para archivos\Files\267.html => 0 seg con 396119600 ms 
+**** Record de tiempo total de ejecucion => 15 Seg     | - 3558273.6000000034 ms - |
+
+**** 
+Tiempo para archivos\Files\264.html => 0 seg con 149942600 ms 
+**** Record de tiempo total de ejecucion => 15 Seg     | - 3573267.860000003 ms - |
+
+**** 
+Tiempo para archivos\Files\266.html => 0 seg con 423496200 ms 
+**** Record de tiempo total de ejecucion => 15 Seg     | - 3615617.4800000032 ms - |
+
+**** 
+Tiempo para archivos\Files\270.html => 0 seg con 174964500 ms 
+**** Record de tiempo total de ejecucion => 15 Seg     | - 3633113.9300000034 ms - |
+
+**** 
+Tiempo para archivos\Files\273.html => 0 seg con 235670200 ms 
+**** Record de tiempo total de ejecucion => 15 Seg     | - 3656680.9500000034 ms - |
+
+**** 
+Tiempo para archivos\Files\268.html => 0 seg con 101693400 ms 
+**** Record de tiempo total de ejecucion => 15 Seg     | - 3666850.2900000033 ms - |
+
+**** 
+Tiempo para archivos\Files\272.html => 0 seg con 470198300 ms 
+**** Record de tiempo total de ejecucion => 15 Seg     | - 3713870.1200000034 ms - |
+
+**** 
+Tiempo para archivos\Files\271.html => 0 seg con 130000300 ms 
+**** Record de tiempo total de ejecucion => 15 Seg     | - 3726870.150000003 ms - |
+
+**** 
+Tiempo para archivos\Files\274.html => 0 seg con 182741200 ms 
+**** Record de tiempo total de ejecucion => 15 Seg     | - 3745144.2700000033 ms - |
+
+**** 
+Tiempo para archivos\Files\277.html => 0 seg con 430667300 ms 
+**** Record de tiempo total de ejecucion => 15 Seg     | - 3788211.0000000033 ms - |
+
+**** 
+Tiempo para archivos\Files\275.html => 0 seg con 140567200 ms 
+**** Record de tiempo total de ejecucion => 15 Seg     | - 3802267.7200000035 ms - |
+
+**** 
+Tiempo para archivos\Files\276.html => 0 seg con 297053500 ms 
+**** Record de tiempo total de ejecucion => 15 Seg     | - 3831973.0700000036 ms - |
+
+**** 
+Tiempo para archivos\Files\279.html => 1 seg con 61859800 ms 
+**** Record de tiempo total de ejecucion => 16 Seg     | - 3838159.0500000035 ms - |
+
+**** 
+Tiempo para archivos\Files\278.html => 0 seg con 218140500 ms 
+**** Record de tiempo total de ejecucion => 16 Seg     | - 3859973.1000000034 ms - |
+
+**** 
+Tiempo para archivos\Files\283.html => 0 seg con 393812200 ms 
+**** Record de tiempo total de ejecucion => 16 Seg     | - 3899354.3200000036 ms - |
+
+**** 
+Tiempo para archivos\Files\282.html => 0 seg con 858638100 ms 
+**** Record de tiempo total de ejecucion => 16 Seg     | - 3985218.1300000036 ms - |
+
+**** 
+Tiempo para archivos\Files\280.html => 0 seg con 599682000 ms 
+**** Record de tiempo total de ejecucion => 16 Seg     | - 4045186.330000004 ms - |
+
+**** 
+Tiempo para archivos\Files\281.html => 0 seg con 587025800 ms 
+**** Record de tiempo total de ejecucion => 16 Seg     | - 4103888.910000004 ms - |
+
+**** 
+Tiempo para archivos\Files\284.html => 0 seg con 296482100 ms 
+**** Record de tiempo total de ejecucion => 16 Seg     | - 4133537.120000004 ms - |
+
+**** 
+Tiempo para archivos\Files\285.html => 0 seg con 285750200 ms 
+**** Record de tiempo total de ejecucion => 16 Seg     | - 4162112.140000004 ms - |
+
+**** 
+Tiempo para archivos\Files\287.html => 0 seg con 460685200 ms 
+**** Record de tiempo total de ejecucion => 16 Seg     | - 4208180.660000004 ms - |
+
+**** 
+Tiempo para archivos\Files\286.html => 0 seg con 290820400 ms 
+**** Record de tiempo total de ejecucion => 16 Seg     | - 4237262.700000004 ms - |
+
+**** 
+Tiempo para archivos\Files\288.html => 0 seg con 67493300 ms 
+**** Record de tiempo total de ejecucion => 16 Seg     | - 4244012.030000004 ms - |
+
+**** 
+Tiempo para archivos\Files\289.html => 1 seg con 2536800 ms 
+**** Record de tiempo total de ejecucion => 17 Seg     | - 4244265.710000004 ms - |
+
+**** 
+Tiempo para archivos\Files\294.html => 0 seg con 99066300 ms 
+**** Record de tiempo total de ejecucion => 17 Seg     | - 4254172.340000004 ms - |
